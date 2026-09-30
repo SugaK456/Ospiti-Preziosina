@@ -1,0 +1,15 @@
+{
+  "name": "Residenza Preziosina - Ospiti",
+  "short_name": "Ospiti RUP",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F4F6F9",
+  "theme_color": "#D97706",
+  "icons": [
+    {
+      "src": "icona-ospiti.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
